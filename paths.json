@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/vikramvk/sparespro/language-masters/en:/",
+    "/content/vikramvk/sparespro/language-masters/en/:/en/",
+    "/content/vikramvk/sparespro/configuration:/.helix/config.json",
+    "/content/vikramvk/sparespro/metadata:/metadata.json",
+    "/content/vikramvk/sparespro/redirects:/redirects.json",
+    "/content/vikramvk/sparespro/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/vikramvk/sparespro/",
+    "/content/dam/vikramvk/sparespro/"
   ]
 }
